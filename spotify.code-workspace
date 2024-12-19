@@ -1,0 +1,33 @@
+{
+	"folders": [
+		{
+			"path": "../../Desktop/New folder"
+		},
+		{
+			"path": "../../Desktop/Java Script"
+		},
+		{
+			"path": "../../Desktop/DSA"
+		},
+		{
+			"path": "../../Desktop/html and css"
+		},
+		{
+			"path": "../../Desktop/css"
+		},
+		{
+			"path": "../../Desktop/assignment"
+		},
+		{
+			"path": "../JavaSciptt"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp"
+		}
+	}
+}
